@@ -1,11 +1,12 @@
 # HackBio-Internship-stage-1
 ## Authors
-Omar holayell sawy ( Holayell)
+Omar Holayell Sawy ( Holayell)
+
+Amira Mahmoud (amira4463)
+
 Manar Tarek (ManarTj)
 
 Noran Morad (NoranMorad)
-
-Amira Mahmoud (amira4463)
 
 # Our Linkedin post:
 https://www.linkedin.com/posts/amira-mahmoud-4bb6a7242_srplot-activity-7238219829076234240-pthu?utm_source=share&utm_medium=member_desktop
