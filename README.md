@@ -8,7 +8,7 @@ Manar Tarek (ManarTj)
 
 Noran Morad (NoranMorad)
 
-# Our [Linkedin](https://www.linkedin.com/posts/amira-mahmoud-4bb6a7242_srplot-activity-7238219829076234240-pthu?utm_source=share&utm_medium=member_desktop)  post: contain video
+# Our [Linkedin](https://www.linkedin.com/posts/amira-mahmoud-4bb6a7242_srplot-activity-7238219829076234240-pthu?utm_source=share&utm_medium=member_desktop)  Post: contain video
 
 # SRplot: Free Online Data Visualization Tool
 SRplot is a free online tool that makes graphs easier for scientists who don't have programming skills. existing visualizing tools often require coding skills in languages like R, Python or Perl. This is a challenge for biologists who don't have programming experience. Bioinformaticians create tools to handle specific tasks, like analysing genomic data, annotations, or visualizing gene expression.
