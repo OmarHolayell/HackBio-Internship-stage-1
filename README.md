@@ -41,7 +41,7 @@ SRplot developed for wet lab biologists, it contains 120 function covers genomic
 # Input & output:
 Users should paste their data in input box, setting preferred options then submit, and if data has been changed then automatically it will be recalculated and graphs will be regenerated.
 
-# Discussion
+# Discussion:
 SRplot is a freely accessible online tool designed to streamline the process of data visualization and graphing for bioinformatics. It addresses several common challenges faced by researchers, including the complexity of programming-based tools, the high cost of commercial software and the need for multiple tools to produce comprehensive figures.
 
 # limitations:
